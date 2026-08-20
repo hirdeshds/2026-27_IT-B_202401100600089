@@ -42,8 +42,8 @@ An AI-powered mock interview and career preparation platform designed to help ca
 ## The Team
 
 *   **Hirdesh** (Team Lead)
-*   **Mahek Bhatia** (Developer)
-*   **Janhavi Srivastava** (UI/UX & AI Engineer)
+*   **Mahek Bhatia** 
+*   **Janhavi Srivastava**
 
 ## License
 MIT License
